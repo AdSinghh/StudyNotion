@@ -129,3 +129,4 @@ exports.categoryPageDetails = async (req, res) => {
       });
     }
 };
+
